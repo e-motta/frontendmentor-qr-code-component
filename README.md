@@ -19,6 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-using-tailwind-css-XeXspeJy2p](https://www.frontendmentor.io/solutions/qr-code-using-tailwind-css-XeXspeJy2p)
 - Live Site URL: [https://e-motta.github.io/frontendmentor-qr-code-component/](https://e-motta.github.io/frontendmentor-qr-code-component/)
 
 ## My process
